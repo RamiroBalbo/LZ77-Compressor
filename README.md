@@ -1,4 +1,5 @@
 # LZ77 Algorithm
+###Cualquier recomendación se agradece, ya sea de texto teoŕico, como consejos para implementar en el código.
 ## V 1.0
   Me eh encontrado con la duda de saber como funcionar un compresor y descompresor de archivos, asi que me puse a investigar. Encontré diferentes algoritmos pero el que mas me llamo la atención en un principio fue el LZ77. El codigo cuenta con las bases de del algoritmo, es decir tiene mas o menos los mismos elementos y la idea esta. Una de las principales diferencias es que lee el archivo de entrada (arch_in), de adelante para tras; mientras que el original recorre de atras para adelante. EL codigo está 100% hecho por mi ,es decir, no busque ningunn lado ni tampoco encontre mucho, de como es el código original, yo creo que no se asemeja ni un poco al final y todavía tiene fallas y está incompleto.
   
